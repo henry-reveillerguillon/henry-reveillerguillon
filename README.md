@@ -2,7 +2,7 @@
 
 <h3 align="center">Un étudiant en DUT Métiers du Multimédia et de l'Internet</h3>
 
-- 👨‍💻 All of my projects are available at [https://henryreveillerguillon.netlify.app](https://henryreveillerguillon.netlify.app)
+- 👨‍💻 Tous mes projets sont disponibles sur  [https://henryreveillerguillon.netlify.app](https://henryreveillerguillon.netlify.app)
 
 <h3 align="left">Suivez moi :</h3>
 <p align="left">
