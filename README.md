@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Un étudiant en DUT Métiers du Multimédia et de l'Internet</h3>
 
 - 👨‍💻 All of my projects are available at [https://henryreveillerguillon.netlify.app](https://henryreveillerguillon.netlify.app)
 
