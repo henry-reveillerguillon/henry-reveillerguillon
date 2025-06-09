@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm I am @Henry Reveiller-Guillon
+### I'm @Henry Reveiller-Guillon
 ### Product Owner
 
 👨‍💻 Tous mes projets sont disponibles sur https://bento.me/henryreveillerguillon
